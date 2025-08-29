@@ -52,7 +52,7 @@ Built with **Python (Flask)** for the backend and **HTML/CSS** for the frontend.
 👉 http://127.0.0.1:5000
 
 ### 📂 Project Structure
-weather-app/
+``` weather-app/
 │-- app.py          # Flask backend
 │-- templates/
 │   └── index.html  # Frontend HTML
@@ -67,7 +67,7 @@ weather-app/
 
 ### 📜 License
 - This project is licensed under the MIT License.
-- 
+
 ---
 
 👉 You just need to **copy-paste this into a file named `README.md`** in your project folder.  
