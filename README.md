@@ -53,12 +53,12 @@ Built with **Python (Flask)** for the backend and **HTML/CSS** for the frontend.
 
 ### 📂 Project Structure
     ``` weather-app/
-│-- app.py          # Flask backend
-│-- templates/
-│   └── index.html  # Frontend HTML
-│-- static/
-│   └── style.css   # Styling
-│-- README.md       # Project documentation
+      │-- app.py          # Flask backend
+      │-- templates/
+      │   └── index.html  # Frontend HTML
+      │-- static/
+      │   └── style.css   # Styling
+      │-- README.md       # Project documentation
 
 
 ### 🤝 Contributing
